@@ -1,7 +1,7 @@
 # Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
 
-A PhoneGap Hello World template
-
+A PhoneGap Hello World template. Application to help users find their ideal roommate.This application uses a server side component   (Cloud Based Web Applications) 
+ 
 ## Usage
 
 #### PhoneGap CLI
